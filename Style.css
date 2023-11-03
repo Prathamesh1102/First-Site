@@ -17,3 +17,16 @@ body{
 footer{
   background-color: yellow;
 }
+h2{
+  text-align: center;
+  text-decoration: none;
+}
+.Search_bar{
+  position: relative;
+  padding: 1rem 1rem;
+}
+.Search_bar{
+  margin-right: 0px;
+  margin-left: 0px;
+  max-width: 720px;
+}
