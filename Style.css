@@ -4,15 +4,20 @@ body{
 header{
   background-color: pink;
 }
-.div{
-  padding: 50px;
+#navbar{
+  position: relative;
+  padding: 1rem;
+  justify-content: space-between;
 }
 .leftside{
-  /* padding: 50px; */
-  padding-top: 50px;
+  text-decoration: none;
+}
+.rightside{
+  text-align: right;
 }
 body{
   background-color: aqua;
+  text-align: center;
 }
 footer{
   background-color: yellow;
