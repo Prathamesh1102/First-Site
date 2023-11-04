@@ -5,15 +5,15 @@ header{
   background-color: pink;
 }
 #navbar{
-  position: relative;
   padding: 1rem;
-  justify-content: space-between;
 }
-.leftside{
+.leftside {
   text-decoration: none;
-}
+  text-align: left;
+  padding-left: 30px;
 .rightside{
-  text-align: right;
+  /* position: absolute; */
+  align-items: end;
 }
 body{
   background-color: aqua;
