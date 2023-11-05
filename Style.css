@@ -1,37 +1,37 @@
-body{
+*{
   margin: 0;
+  padding: 0;
 }
 header{
   background-color: pink;
+  height: 60px;
 }
-#navbar{
-  padding: 1rem;
+#abstract{
+  margin-left: 40px;
 }
-.leftside {
+.links{
   text-decoration: none;
-  text-align: left;
-  padding-left: 30px;
-.rightside{
-  /* position: absolute; */
-  align-items: end;
+  font-size: 20px;
 }
-body{
-  background-color: aqua;
-  text-align: center;
+#sub_button{
+  margin-top: 20px;
+  margin-left: 900px;
+  padding: 3px;
+}
+#Sign_In{
+  padding: 3px;
 }
 footer{
   background-color: yellow;
+}
+#Search_bar{
+  margin-top: 9px;
+  margin-bottom: 10px;
+  margin-left: 43.5%;
 }
 h2{
   text-align: center;
   text-decoration: none;
 }
-.Search_bar{
-  position: relative;
-  padding: 1rem 1rem;
-}
-.Search_bar{
-  margin-right: 0px;
-  margin-left: 0px;
-  max-width: 720px;
-}
+
+
